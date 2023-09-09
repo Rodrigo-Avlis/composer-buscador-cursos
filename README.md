@@ -1,3 +1,3 @@
-#Documentação d componente
+#Documentação do componente
 
 Este componente é Top!
