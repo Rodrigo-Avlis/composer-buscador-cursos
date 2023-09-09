@@ -48,5 +48,9 @@
     "cs": "Roda as verificações do phpcs PSR12",
     "phan": "Roda as verificações do phan",
     "test": "Roda as verificações do phpunit"
-  }
+  },
+  "license": "GPL-3.0",
+  "bin": [
+    "buscar-cursos"
+  ]
 }
